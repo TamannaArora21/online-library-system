@@ -53,7 +53,6 @@ npm run build
 
 ## Project Structure
 
-```text
 src
 ├── components
 ├── pages
@@ -62,7 +61,6 @@ src
 ├── App.jsx
 ├── App.css
 └── main.jsx
-```
 
 ---
 ## GitHub Link
