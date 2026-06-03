@@ -39,6 +39,10 @@ function Home() {
         <h3>Dune</h3>
         <p>Frank Herbert</p>
       </div>
+      <div>
+        <h3>Healing once</h3>
+        <p>Dian Liasi</p>
+      </div>
     </div>
   );
 }
