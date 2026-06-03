@@ -25,10 +25,10 @@ const books = [
   },
   {
     id: 4,
-    title: "Dune",
-    author: "Frank Herbert",
-    category: "Sci-Fi",
-    description: "A famous science fiction novel.",
+    title: "Healing once",
+    author: "Dian Liasi",
+    category: "Fiction",
+    description: "Motivation novel.",
     rating: 4.6,
   },
 ];
