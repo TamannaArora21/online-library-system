@@ -2,8 +2,7 @@
 
 ## Description
 
-Online Library System is a React application where users can browse books, search books, view book details, and add new books to the library.
-
+Online Library System is a React-based web application that allows users to browse books, view detailed information, search books, filter books by category, and add new books to the library.
 The project is built using React, Vite, React Router, and Redux Toolkit.
 
 ---
