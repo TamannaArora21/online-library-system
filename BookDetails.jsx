@@ -21,19 +21,19 @@ function BookDetails() {
       <h1>{book.title}</h1>
 
       <p>
-        <strong>Author:</strong> {book.author}
+        <strong>Author:-</strong> {book.author}
       </p>
 
       <p>
-        <strong>Category:</strong> {book.category}
+        <strong>Category:-</strong> {book.category}
       </p>
 
       <p>
-        <strong>Description:</strong> {book.description}
+        <strong>Description:-</strong> {book.description}
       </p>
 
       <p>
-        <strong>Rating:</strong> {book.rating}
+        <strong>Rating:-</strong> {book.rating}
       </p>
 
       <Link to="/books">
