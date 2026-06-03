@@ -31,7 +31,7 @@ function BrowseBooks() {
 
       <input
         type="text"
-        placeholder="Search by title or author"
+        placeholder="Search by Title or Author"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
       />
